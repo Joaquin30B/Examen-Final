@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FinalAppWin.Properties
+namespace Final.AppWin.Properties
 {
 
 

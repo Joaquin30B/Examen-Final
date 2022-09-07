@@ -1,11 +1,10 @@
-﻿using FinalAppWin;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FinalAppWin
+namespace Final.AppWin
 {
     internal static class Program
     {
@@ -17,7 +16,7 @@ namespace FinalAppWin
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPrestamo());
+            Application.Run(new frmPrincipal());
         }
     }
 }
